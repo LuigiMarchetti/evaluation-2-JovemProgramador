@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\Aulas Luigi\Aula 14 Avaliação 2\Aula 14 Avaliação 2\obj\Debug\net5.0\Aula 14 Avaliação 2.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Aulas Luigi\Aula 14 Avaliação 2\Aula 14 Avaliação 2\obj\Debug\net5.0\Aula 14 Avaliação 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Aulas Luigi\Aula 14 Avaliação 2\Aula 14 Avaliação 2\obj\Debug\net5.0\Aula 14 Avaliação 2.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Aulas Luigi\Aula 14 Avaliação 2\Aula 14 Avaliação 2\obj\Debug\net5.0\Aula 14 Avaliação 2.AssemblyInfo.cs
+C:\Users\user\Desktop\Aulas Luigi\Aula 14 Avaliação 2\Aula 14 Avaliação 2\obj\Debug\net5.0\Aula 14 Avaliação 2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Aulas Luigi\Aula 14 Avaliação 2\Aula 14 Avaliação 2\bin\Debug\net5.0\Aula 14 Avaliação 2.exe
+C:\Users\user\Desktop\Aulas Luigi\Aula 14 Avaliação 2\Aula 14 Avaliação 2\bin\Debug\net5.0\Aula 14 Avaliação 2.deps.json
+C:\Users\user\Desktop\Aulas Luigi\Aula 14 Avaliação 2\Aula 14 Avaliação 2\bin\Debug\net5.0\Aula 14 Avaliação 2.runtimeconfig.json
+C:\Users\user\Desktop\Aulas Luigi\Aula 14 Avaliação 2\Aula 14 Avaliação 2\bin\Debug\net5.0\Aula 14 Avaliação 2.runtimeconfig.dev.json
+C:\Users\user\Desktop\Aulas Luigi\Aula 14 Avaliação 2\Aula 14 Avaliação 2\bin\Debug\net5.0\Aula 14 Avaliação 2.dll
+C:\Users\user\Desktop\Aulas Luigi\Aula 14 Avaliação 2\Aula 14 Avaliação 2\bin\Debug\net5.0\ref\Aula 14 Avaliação 2.dll
+C:\Users\user\Desktop\Aulas Luigi\Aula 14 Avaliação 2\Aula 14 Avaliação 2\bin\Debug\net5.0\Aula 14 Avaliação 2.pdb
+C:\Users\user\Desktop\Aulas Luigi\Aula 14 Avaliação 2\Aula 14 Avaliação 2\obj\Debug\net5.0\Aula 14 Avaliação 2.dll
+C:\Users\user\Desktop\Aulas Luigi\Aula 14 Avaliação 2\Aula 14 Avaliação 2\obj\Debug\net5.0\ref\Aula 14 Avaliação 2.dll
+C:\Users\user\Desktop\Aulas Luigi\Aula 14 Avaliação 2\Aula 14 Avaliação 2\obj\Debug\net5.0\Aula 14 Avaliação 2.pdb
+C:\Users\user\Desktop\Aulas Luigi\Aula 14 Avaliação 2\Aula 14 Avaliação 2\obj\Debug\net5.0\Aula 14 Avaliação 2.genruntimeconfig.cache
